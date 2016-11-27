@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">D2A</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="base_url"></string>
+    <string name="get_matches"></string>
+    <string name="get_matche_details"></string>
+</resources>
