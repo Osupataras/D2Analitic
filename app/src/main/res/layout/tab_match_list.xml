@@ -46,7 +46,7 @@
             android:background="@color/colorPrimaryDark">
 
             <TextView
-                android:id="@+id/account_name"
+                android:id="@+id/acc"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/colorPrimary"
@@ -60,7 +60,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/account_name"
-                android:background="@color/colorPrimary"
+                android:background="@color/colorPrimaryDark"
                 android:scrollbars="vertical" />
         </RelativeLayout>
     </android.support.v4.widget.NestedScrollView>
